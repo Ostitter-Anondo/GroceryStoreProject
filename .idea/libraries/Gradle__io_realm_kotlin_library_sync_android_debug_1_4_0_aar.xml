@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.realm.kotlin:library-sync-android-debug:1.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1ab6c1f9152e5099226b2f87462b31fc/transformed/jetified-library-sync-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1ab6c1f9152e5099226b2f87462b31fc/transformed/jetified-library-sync-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1ab6c1f9152e5099226b2f87462b31fc/transformed/jetified-library-sync-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm.kotlin/library-sync-android-debug/1.4.0/708df45c7482181e4fbc1199a20920dedf0042f/library-sync-android-debug-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm.kotlin/library-sync-android-debug/1.4.0/b874714f4b30881572b3b7b5e3e9f61847f48d9d/library-sync-android-debug-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
